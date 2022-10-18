@@ -1,1 +1,1 @@
-# plant-mobile
+# simple-responsive-stub
